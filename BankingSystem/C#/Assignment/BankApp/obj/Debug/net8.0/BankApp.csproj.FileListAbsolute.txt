@@ -1,0 +1,14 @@
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp.exe
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp.pdb
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.pdb
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\ref\BankApp.dll

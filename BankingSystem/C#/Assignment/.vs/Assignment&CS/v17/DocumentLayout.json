@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\task12.exceptions\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\task12.exceptions\\insufficientfundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\service\\icustomerserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\service\\ibankserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\service\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\service\\customerserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\service\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\service\\bankserviceproviderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\bean\\zerobalanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\bean\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\bean\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\bean\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\bean\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E53039-4CB5-4E8C-B96E-143890F24D75}|HMBankApp\\HMBankApp.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\hmbankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E53039-4CB5-4E8C-B96E-143890F24D75}|HMBankApp\\HMBankApp.csproj|solutionrelative:hmbankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E53039-4CB5-4E8C-B96E-143890F24D75}|HMBankApp\\HMBankApp.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\hmbankapp\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E53039-4CB5-4E8C-B96E-143890F24D75}|HMBankApp\\HMBankApp.csproj|solutionrelative:hmbankapp\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\abstractsavingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\abstractsavingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankingsystem\\abstractcurrentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B19EF23-B7D8-4610-B31B-4F1EDB758F28}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\abstractcurrentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|solutionrelative:bankapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|solutionrelative:bankapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|solutionrelative:bankapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\bankapp\\bankapp_task10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A07CED05-0FEE-4FE4-83AF-A61582CAFA05}|BankApp\\BankApp_Task10.csproj|solutionrelative:bankapp\\bankapp_task10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\task11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\task11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\task12.exceptions\\nullpointerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\task12.exceptions\\nullpointerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\task12.exceptions\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\task12.exceptions\\overdraftlimitexceededexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\bankingsystem\\c#\\assignment\\task11\\task12.exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3269B62C-D3DC-49C0-8727-AE71E6ABD59A}|Task11\\Task11.csproj|solutionrelative:task11\\task12.exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\CustomerServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "Task11\\service\\CustomerServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\CustomerServiceProviderImpl.cs",
+              "RelativeToolTip": "Task11\\service\\CustomerServiceProviderImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:32:43.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\IBankServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task11\\service\\IBankServiceProvider.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\IBankServiceProvider.cs",
+              "RelativeToolTip": "Task11\\service\\IBankServiceProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:32:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\ICustomerServiceProvider.cs",
+              "RelativeDocumentMoniker": "Task11\\service\\ICustomerServiceProvider.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\ICustomerServiceProvider.cs",
+              "RelativeToolTip": "Task11\\service\\ICustomerServiceProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsufficientFundException.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\InsufficientFundException.cs",
+              "RelativeDocumentMoniker": "Task11\\Task12.Exceptions\\InsufficientFundException.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\InsufficientFundException.cs",
+              "RelativeToolTip": "Task11\\Task12.Exceptions\\InsufficientFundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:39:09.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Program.cs",
+              "RelativeToolTip": "Task11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:30:23.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankServiceProviderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\BankServiceProviderImpl.cs",
+              "RelativeDocumentMoniker": "Task11\\service\\BankServiceProviderImpl.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\service\\BankServiceProviderImpl.cs",
+              "RelativeToolTip": "Task11\\service\\BankServiceProviderImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:33:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZeroBalanceAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\ZeroBalanceAccount.cs",
+              "RelativeDocumentMoniker": "Task11\\bean\\ZeroBalanceAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\ZeroBalanceAccount.cs",
+              "RelativeToolTip": "Task11\\bean\\ZeroBalanceAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:48:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Task11\\bean\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\SavingsAccount.cs",
+              "RelativeToolTip": "Task11\\bean\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:47:46.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\Customer.cs",
+              "RelativeDocumentMoniker": "Task11\\bean\\Customer.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\Customer.cs",
+              "RelativeToolTip": "Task11\\bean\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:30:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Task11\\bean\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\CurrentAccount.cs",
+              "RelativeToolTip": "Task11\\bean\\CurrentAccount.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:48:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\Account.cs",
+              "RelativeDocumentMoniker": "Task11\\bean\\Account.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\bean\\Account.cs",
+              "RelativeToolTip": "Task11\\bean\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\HMBankApp\\Program.cs",
+              "RelativeDocumentMoniker": "HMBankApp\\Program.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\HMBankApp\\Program.cs",
+              "RelativeToolTip": "HMBankApp\\Program.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAcwD0BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:47:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\HMBankApp\\DBUtil.cs",
+              "RelativeDocumentMoniker": "HMBankApp\\DBUtil.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\HMBankApp\\DBUtil.cs",
+              "RelativeToolTip": "HMBankApp\\DBUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:50:30.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\SavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem\\SavingsAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:49:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Program.cs",
+              "RelativeToolTip": "BankingSystem\\Program.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAwwNkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:18:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Customer.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Customer.cs",
+              "RelativeToolTip": "BankingSystem\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:33:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\CurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem\\CurrentAccount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:50:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\BankAccount.cs",
+              "RelativeToolTip": "BankingSystem\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:07:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Account.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\Account.cs",
+              "RelativeToolTip": "BankingSystem\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:33:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractSavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\AbstractSavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\AbstractSavingsAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\AbstractSavingsAccount.cs",
+              "RelativeToolTip": "BankingSystem\\AbstractSavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:08:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbstractCurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\AbstractCurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\AbstractCurrentAccount.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankingSystem\\AbstractCurrentAccount.cs",
+              "RelativeToolTip": "BankingSystem\\AbstractCurrentAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:08:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Customer.cs",
+              "RelativeDocumentMoniker": "BankApp\\Customer.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Customer.cs",
+              "RelativeToolTip": "BankApp\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:26:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Bank.cs",
+              "RelativeDocumentMoniker": "BankApp\\Bank.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Bank.cs",
+              "RelativeToolTip": "BankApp\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:28:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankApp\\Account.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\Account.cs",
+              "RelativeToolTip": "BankApp\\Account.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:27:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BankApp_Task10.csproj",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\BankApp_Task10.csproj",
+              "RelativeDocumentMoniker": "BankApp\\BankApp_Task10.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\BankApp\\BankApp_Task10.csproj",
+              "RelativeToolTip": "BankApp\\BankApp_Task10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T10:26:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Task11.csproj",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task11.csproj",
+              "RelativeDocumentMoniker": "Task11\\Task11.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task11.csproj",
+              "RelativeToolTip": "Task11\\Task11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T04:17:11.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InvalidAccountException.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\InvalidAccountException.cs",
+              "RelativeDocumentMoniker": "Task11\\Task12.Exceptions\\InvalidAccountException.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\InvalidAccountException.cs",
+              "RelativeToolTip": "Task11\\Task12.Exceptions\\InvalidAccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:39:41.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OverDraftLimitExceededException.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\OverDraftLimitExceededException.cs",
+              "RelativeDocumentMoniker": "Task11\\Task12.Exceptions\\OverDraftLimitExceededException.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\OverDraftLimitExceededException.cs",
+              "RelativeToolTip": "Task11\\Task12.Exceptions\\OverDraftLimitExceededException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:40:04.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NullPointerException.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\NullPointerException.cs",
+              "RelativeDocumentMoniker": "Task11\\Task12.Exceptions\\NullPointerException.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\BankingSystem\\C#\\Assignment\\Task11\\Task12.Exceptions\\NullPointerException.cs",
+              "RelativeToolTip": "Task11\\Task12.Exceptions\\NullPointerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:40:23.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

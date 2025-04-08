@@ -1,0 +1,14 @@
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp_Task10.exe
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp_Task10.deps.json
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp_Task10.runtimeconfig.json
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp_Task10.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\bin\Debug\net8.0\BankApp_Task10.pdb
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.AssemblyInfoInputs.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.AssemblyInfo.cs
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.csproj.CoreCompileInputs.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\refint\BankApp_Task10.dll
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.pdb
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\BankApp_Task10.genruntimeconfig.cache
+C:\Users\91754\Documents\C#Batch1\Assignment&CS\BankApp\obj\Debug\net8.0\ref\BankApp_Task10.dll

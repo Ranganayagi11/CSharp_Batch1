@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\functioncall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:functioncall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\c#practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:c#practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\timeperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:timeperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\struct_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:struct_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\c#practice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:c#practice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|c:\\users\\91754\\documents\\c#batch1\\csharp_batch1\\class assignments\\c#\\c#practice\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD44DC-F090-45D4-87BA-4B1BFEAD22F2}|C#Practice.csproj|solutionrelative:distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\EmployeeDetails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\EmployeeDetails\\Program.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\EmployeeDetails\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:08:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Update.cs",
+              "RelativeDocumentMoniker": "Update.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Update.cs",
+              "RelativeToolTip": "Update.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:59:34.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Timeperiod.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Timeperiod.cs",
+              "RelativeDocumentMoniker": "Timeperiod.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Timeperiod.cs",
+              "RelativeToolTip": "Timeperiod.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:02:45.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\EmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:57:31.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:01:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Furniture.cs",
+              "RelativeDocumentMoniker": "Furniture.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Furniture.cs",
+              "RelativeToolTip": "Furniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:11:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "functioncall.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\functioncall.cs",
+              "RelativeDocumentMoniker": "functioncall.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\functioncall.cs",
+              "RelativeToolTip": "functioncall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:59:59.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDetails.csproj",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\EmployeeDetails.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\EmployeeDetails\\EmployeeDetails.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\EmployeeDetails\\EmployeeDetails.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\EmployeeDetails\\EmployeeDetails.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T14:17:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "C#Practice.csproj",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\C#Practice.csproj",
+              "RelativeDocumentMoniker": "C#Practice.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\C#Practice.csproj",
+              "RelativeToolTip": "C#Practice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T09:59:06.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Distance.cs",
+              "RelativeDocumentMoniker": "Distance.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Distance.cs",
+              "RelativeToolTip": "Distance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:38:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "C#Practice",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\C#Practice.csproj",
+              "RelativeDocumentMoniker": "C#Practice.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\C#Practice.csproj",
+              "RelativeToolTip": "C#Practice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T04:30:30.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Struct_Enum.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Struct_Enum.cs",
+              "RelativeDocumentMoniker": "Struct_Enum.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CSharp_Batch1\\Class Assignments\\C#\\C#Practice\\Struct_Enum.cs",
+              "RelativeToolTip": "Struct_Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:17:43.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
