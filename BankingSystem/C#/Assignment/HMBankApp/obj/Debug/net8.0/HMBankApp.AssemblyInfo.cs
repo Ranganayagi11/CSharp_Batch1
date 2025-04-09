@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMBankApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f120233c45f1a050c9dd7a04ba8697d2f84791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d73ec20df7eb504a3769bffe1adac50aaa5cee49")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMBankApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMBankApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
