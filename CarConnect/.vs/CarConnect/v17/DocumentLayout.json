@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnectapp\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|solutionrelative:carconnectapp\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnectapp\\util\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|solutionrelative:carconnectapp\\util\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnectapp\\dao\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|solutionrelative:carconnectapp\\dao\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnectapp\\dao\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|solutionrelative:carconnectapp\\dao\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnectapp\\dao\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0286DE43-CCFA-4042-88A9-3035379A92B4}|CarConnectApp\\CarConnectApp.csproj|solutionrelative:carconnectapp\\dao\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnecttests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|solutionrelative:carconnecttests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnecttests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|solutionrelative:carconnecttests\\vehicleservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|c:\\users\\91754\\documents\\c#batch1\\carconnect\\carconnecttests\\carconnecttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0265766-9CBA-45F2-BDC7-5D061048695E}|CarConnectTests\\CarConnectTests.csproj|solutionrelative:carconnecttests\\carconnecttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CarConnectApp\\dao\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\CustomerService.cs",
+              "RelativeToolTip": "CarConnectApp\\dao\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:55:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CarConnectApp\\dao\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\ICustomerService.cs",
+              "RelativeToolTip": "CarConnectApp\\dao\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:56:19.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\ReservationService.cs",
+              "RelativeDocumentMoniker": "CarConnectApp\\dao\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\dao\\ReservationService.cs",
+              "RelativeToolTip": "CarConnectApp\\dao\\ReservationService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:42:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\util\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "CarConnectApp\\util\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\util\\ReportGenerator.cs",
+              "RelativeToolTip": "CarConnectApp\\util\\ReportGenerator.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:24:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "CarConnectApp\\main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectApp\\main\\MainModule.cs",
+              "RelativeToolTip": "CarConnectApp\\main\\MainModule.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswBsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:00:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\VehicleServiceTests.cs",
+              "RelativeDocumentMoniker": "CarConnectTests\\VehicleServiceTests.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\VehicleServiceTests.cs",
+              "RelativeToolTip": "CarConnectTests\\VehicleServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:02:43.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "CarConnectTests\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\CustomerServiceTests.cs",
+              "RelativeToolTip": "CarConnectTests\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:00:48.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarConnectTests.csproj",
+              "DocumentMoniker": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\CarConnectTests.csproj",
+              "RelativeDocumentMoniker": "CarConnectTests\\CarConnectTests.csproj",
+              "ToolTip": "C:\\Users\\91754\\Documents\\C#Batch1\\CarConnect\\CarConnectTests\\CarConnectTests.csproj",
+              "RelativeToolTip": "CarConnectTests\\CarConnectTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T08:01:22.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
